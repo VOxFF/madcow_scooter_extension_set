@@ -4,7 +4,7 @@ For Madcow 3in Fiberglass Scooter
 This repository contains a set of custom FreeCAD-designed models to extend the Madcow 3" Fiberglass Scooter high-power rocket by 180 mm and to retain the parachute in the forward section of the rocket for improved stability.
 
 
-![Extension Set](/html/Screenshot-2025-08-18.png)
+![Extension Set](/docs/Screenshot-2025-08-18.png)
 
 
 ## 🟢 Green – Nose Insert  
