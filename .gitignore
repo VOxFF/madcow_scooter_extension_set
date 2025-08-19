@@ -1,5 +1,5 @@
 # Free CAD backup files
-*..FCBak
+*.FCBak
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
